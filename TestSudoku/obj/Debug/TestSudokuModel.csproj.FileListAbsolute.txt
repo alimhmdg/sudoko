@@ -1,0 +1,7 @@
+F:\New folder\TestSudoku\bin\Debug\TestSudoku.dll
+F:\New folder\TestSudoku\bin\Debug\TestSudoku.pdb
+F:\New folder\TestSudoku\bin\Debug\SudokuModel.dll
+F:\New folder\TestSudoku\bin\Debug\SudokuModel.pdb
+F:\New folder\TestSudoku\obj\Debug\TestSudokuModel.csprojResolveAssemblyReference.cache
+F:\New folder\TestSudoku\obj\Debug\TestSudoku.dll
+F:\New folder\TestSudoku\obj\Debug\TestSudoku.pdb

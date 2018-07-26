@@ -1,0 +1,10 @@
+F:\New folder\SudokuFront\bin\Debug\Sudoku.exe.config
+F:\New folder\SudokuFront\bin\Debug\Sudoku.exe
+F:\New folder\SudokuFront\bin\Debug\Sudoku.pdb
+F:\New folder\SudokuFront\bin\Debug\SudokuModel.dll
+F:\New folder\SudokuFront\bin\Debug\SudokuModel.pdb
+F:\New folder\SudokuFront\obj\Debug\SudokuFront.csprojResolveAssemblyReference.cache
+F:\New folder\SudokuFront\obj\Debug\SudokuModel.Game.resources
+F:\New folder\SudokuFront\obj\Debug\SudokuFront.csproj.GenerateResource.Cache
+F:\New folder\SudokuFront\obj\Debug\Sudoku.exe
+F:\New folder\SudokuFront\obj\Debug\Sudoku.pdb
